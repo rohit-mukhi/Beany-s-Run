@@ -1,3 +1,5 @@
+// This is the logic part of the game.
+
 import kaplay from "kaplay";
 
 const k = kaplay({
